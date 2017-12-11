@@ -21,8 +21,7 @@ namespace ConsoleApp1.Entities
         }
 
         public CustomerUS()
-        {
-            
+        {          
         }
     }
 }
